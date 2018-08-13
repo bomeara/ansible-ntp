@@ -1,8 +1,8 @@
 # meta file for ntp
 ---
 galaxy_info:
-  author: Mischa ter Smitten
-  company: Oefenweb.nl B.V.
+  author: Brian O'Meara
+  company: omearalab
   description: Set up a ntp server in Debian-like systems
   license: BSD
   min_ansible_version: 2.2.0.0
